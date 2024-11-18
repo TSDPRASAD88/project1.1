@@ -5,4 +5,4 @@
 
 ## Or
 
-<img src="./Or.png>
+<img src="./Or.png"/>
